@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [VidyaSarthi](https://github.com/sundram2003/VidyaSarthi)
 
-- 💬 Ask me about **NodeJs, MongoDB, SQL**
+- 💬 Ask me about **JavaScript NodeJs, MongoDB, SQL**
 
 - 📫 How to reach me **sundramm2003@gmail.com**
 
